@@ -24,6 +24,27 @@ This project is a registration system with a backend using Express.js and MySQL,
 
    ```bash
    cd backend
+2.Install dependencies:
+
+npm install
+Configure MySQL:
+
+Ensure MySQL is running and create a database named registration_db. Update the index.js file in the backend with your MySQL credentials.
+
+3.Run the backend server:
+
+node index.js
+The backend will be running at http://localhost:5000.
+
+### Frontend Setup:
+1.Navigate to the frontend directory:
+cd frontend
+2.Install dependencies:
+npm install
+
+3.Run the frontend development server:
+npm start
+The frontend will be running at http://localhost:3000.
 
 
    
