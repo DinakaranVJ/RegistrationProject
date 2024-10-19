@@ -46,5 +46,10 @@ npm install
 npm start
 The frontend will be running at http://localhost:3000.
 
+### How to Use:
+1.Open http://localhost:3000 in your browser.
+2.Use the form to add a new registration.
+3.View, edit, or delete registrations from the list below the form.
+
 
    
